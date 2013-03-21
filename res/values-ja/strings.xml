@@ -70,7 +70,7 @@
     <string name="create_playlist_prompt" msgid="942607395076646686">"プレイリストの名前"</string>
     <string name="delete_dialog_title"><xliff:g id="item" example="album">%s</xliff:g> を削除しますか?</string>
     <string name="cannot_be_undone">この操作はやり直せません</string>
-    <string name="delete_warning">これはキャッシュされたイメージエントリーを永久に削除します</string>
+    <string name="delete_warning">キャッシュされたイメージエントリーを永久に削除します</string>
     <string name="new_photo">ギャラリーから写真を選択</string>
     <string name="google_search">Google 検索</string>
     <string name="use_default">デフォルトの写真を使用</string>
